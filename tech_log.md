@@ -15,5 +15,5 @@ nothing cofusing about today.
 
 Day 3: Reviewed HTML and CSS structure, starting layout and spacing control today.
 Began understanding padding vs width constraints. commited updates to GitHub. 
-one thing that felt good  was understanding HTML structure to the point where i independently added in a h2 and applied CSS. However what i learned was 'the last rule wins'. this meant i tried to style two h2's under different colors. was not possible. Also  about learned UI and UX.
+one thing that felt good  was understanding HTML structure to the point where i independently added in a h2 and applied CSS. However what i learned was 'the last rule wins'. this meant i tried to style two h2's under different colors. was not possible. Also  about learned UI and UX. -- day 3 was continued... learned styling basics and understood concept styling a indivdual class instead of every paragph on the page.
 

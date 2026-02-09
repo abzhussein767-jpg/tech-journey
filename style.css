@@ -28,3 +28,11 @@ body {
 p {
     max-width: 600px;
 }
+.intro {
+    color: lightblue;
+}
+.highlight {
+    color:red;
+    font-weight: bold;
+    font-size: 18px;
+}
