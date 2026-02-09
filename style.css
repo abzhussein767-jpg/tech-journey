@@ -36,3 +36,12 @@ p {
     font-weight: bold;
     font-size: 18px;
 }
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+.note {
+    color: lightgreen;
+    font-style: italic;
+}
+
