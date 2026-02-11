@@ -55,5 +55,9 @@ p {
 .box {
     border: 2px solid white;
     padding: 20px;
-    margin-top: 30px;
+    margin: 40px auto;
+    max-width: 600px;
+}
+h1{
+    text-align: center;
 }
