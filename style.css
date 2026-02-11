@@ -61,3 +61,25 @@ p {
 h1{
     text-align: center;
 }
+
+
+.boxtwo {
+    border: 2px solid white;
+    padding: 20px;
+    margin: 40px auto;
+    max-width: 600px;
+}
+
+.volvic {
+    color: limegreen;
+    font-style: bold;
+    font-size: 20px;
+}
+
+.volvictwo {
+    color: white;
+    list-style: none;
+    padding-left: 0;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
