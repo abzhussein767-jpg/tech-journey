@@ -44,4 +44,16 @@ p {
     color: lightgreen;
     font-style: italic;
 }
-
+.normal-text {
+    color: white;
+}
+.example-one {
+    color: lightpink;
+    font-style: italic;
+    font-size: 20px;
+}
+.box {
+    border: 2px solid white;
+    padding: 20px;
+    margin-top: 30px;
+}
